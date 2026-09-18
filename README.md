@@ -6,7 +6,7 @@ Small mistakes in UTM parameters can cause problems in GA4 reporting, especially
 
 ## Live project
 
-View here: 
+View here: https://sharijo11.github.io/marketing-qa-tool/
 
 
 ## What it does
